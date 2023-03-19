@@ -1,0 +1,34 @@
+.ahya {
+  color:red;
+}
+.hey{
+  color:Blue;
+}
+
+.body-color {
+  background-color:white;
+  height:400px;
+  
+}
+.head{
+  background-color:black;
+  height:50px;
+}
+.head_name {
+  color:white;
+  text-align:center;
+  
+  
+}
+.body {
+  margin:0px;
+}
+.profile {
+  color:white;
+  font-size:50px;
+  text-align:center;
+}
+.bottom-color{
+  background-color:black;
+  height:100px;
+}
